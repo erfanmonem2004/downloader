@@ -1,10 +1,8 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [mhrv-rs-android-universal-v1.9.18](./mhrv-rs-android-universal-v1.9.18)
+- [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
+- [v1.9.18](./v1.9.18)
 
 ---
 
