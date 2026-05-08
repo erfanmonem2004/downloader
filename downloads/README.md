@@ -3,6 +3,7 @@
 - [mhrv-rs-android-universal-v1.9.18](./mhrv-rs-android-universal-v1.9.18)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [v1.9.18](./v1.9.18)
+- [v2rayN-windows-64](./v2rayN-windows-64)
 
 ---
 
